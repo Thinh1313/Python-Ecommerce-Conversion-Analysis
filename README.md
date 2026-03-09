@@ -62,7 +62,7 @@ Key observations:
 - User exploring a greater number of brands were more likely to complete a purchase.
 - The majority of sessions never reached the cart stage, indicating significant drop-off early in the browsing funnel.
 
-![Conversion Rate by Session Duration]("D:/projects/Python Ecommerce Conversion Analysis/Images/Python_Ecommerce_Conversion_2.png")
+![Conversion Rate by Session Duration](images/Python_Ecommerce_Conversion_2.png)
 
 # Model Development
 To predict whether a browsing session results in purchase, a logistic regression model was used.
@@ -90,7 +90,7 @@ The feature engineered model significantly improved predictive performance, indi
 # Conversion Segmentation
 Sessions were ranked by predicted conversion probability and grouped into deciles. The top 10% of sessions showed a conversion rate of **21%**, compared to an overall conversion rate of roughly **3%**. This demonstrates that the model effectively identifies high-intent browsing sessions.
 
-![Decile Conversion Chart]("D:/projects/Python Ecommerce Conversion Analysis/Images/Python_Ecommerce_Conversion_3.png")
+![Decile Conversion Chart](images/Python_Ecommerce_Conversion_3.png)
 
 # Marketing Simulation
 To evaluate the business value of the model, a simple marketing scenario was simulated.
