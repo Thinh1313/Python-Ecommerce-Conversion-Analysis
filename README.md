@@ -62,7 +62,7 @@ Key observations:
 - User exploring a greater number of brands were more likely to complete a purchase.
 - The majority of sessions never reached the cart stage, indicating significant drop-off early in the browsing funnel.
 
-![Conversion Rate by Session Duration](images/Python_Ecommerce_Conversion_2.png)
+![Conversion Rate by Session Duration](Images/Python_Ecommerce_Conversion_2.png)
 
 # Model Development
 To predict whether a browsing session results in purchase, a logistic regression model was used.
