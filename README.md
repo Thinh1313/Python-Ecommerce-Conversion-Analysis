@@ -90,7 +90,7 @@ The feature engineered model significantly improved predictive performance, indi
 # Conversion Segmentation
 Sessions were ranked by predicted conversion probability and grouped into deciles. The top 10% of sessions showed a conversion rate of **21%**, compared to an overall conversion rate of roughly **3%**. This demonstrates that the model effectively identifies high-intent browsing sessions.
 
-![Decile Conversion Chart](images/Python_Ecommerce_Conversion_3.png)
+![Decile Conversion Chart](Images/Python_Ecommerce_Conversion_3.png)
 
 # Marketing Simulation
 To evaluate the business value of the model, a simple marketing scenario was simulated.
